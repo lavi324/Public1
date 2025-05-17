@@ -40,7 +40,7 @@ Build and Push the Docker images.
 
 Create Kubernetes files with the new Docker images and apply.
 
-Search for the pods services external IP's and see that the MERN codes are working (the frontend web page, the b3ckand REST API and the Mongo DB collection.
+Search for the frontend and the backend pods services external IP's and see that the MERN codes are working (the frontend web page, the backand REST API and the Mongo DB collection).
 
 Now you can see that the app codes are working properly and can start to add more automations infrastructure.
 
